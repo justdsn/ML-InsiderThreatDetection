@@ -17,11 +17,5 @@ Insider threats, where authorized individuals misuse their access, pose signific
 
 ## Requirements
 - Python 3.8+
-- Dependencies listed in requirements.txt:
-  - pandas>=1.5.0
-  - numpy>=1.23.0
-  - scikit-learn>=1.2.0
-  - seaborn>=0.12.0
-  - matplotlib>=3.6.0
-  - networkx>=2.8.0
-  - tqdm>=4.64.0
+- All the dependencies listed in requirements.txt 
+  
