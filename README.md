@@ -11,13 +11,13 @@ Insider threats, where authorized individuals misuse their access, pose signific
 - **Visualizations**: Generates scatter plots, time-series plots, heatmaps, and box plots for insights.
 
 ## File	Description
-- InsiderThreat_CoreCMU.py	Analyzes email data using Isolation Forest, producing anomaly scores and visualizations like scatter and time-series plots.
-- InsiderThreat_DfuseCMU.py	Extends core analysis with psychometric data and user-PC graph analysis, including additional visualizations (e.g., heatmaps, box plots).
-- requirements.txt	Lists Python dependencies for running the scripts.
+- **InsiderThreat_CoreCMU.py**	Analyzes email data using Isolation Forest, producing anomaly scores and visualizations like scatter and time-series plots.
+- **InsiderThreat_DfuseCMU.py**	Extends core analysis with psychometric data and user-PC graph analysis, including additional visualizations (e.g., heatmaps, box plots).
+- **requirements.txt**	Lists Python dependencies for running the scripts.
 
 ## Requirements
 - Python 3.8+
 - All the dependencies listed in requirements.txt
   
 ## Note
-email data and psychometric data are not included due to sensitivity.
+Email related data and psychometric data are not included due to sensitivity.
