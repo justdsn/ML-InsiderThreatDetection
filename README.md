@@ -17,5 +17,7 @@ Insider threats, where authorized individuals misuse their access, pose signific
 
 ## Requirements
 - Python 3.8+
-- All the dependencies listed in requirements.txt 
+- All the dependencies listed in requirements.txt
   
+## Note
+email data and psychometric data are not included due to sensitivity.
